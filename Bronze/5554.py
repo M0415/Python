@@ -3,8 +3,7 @@ time_total = 0
 hour = 0
 
 for i in range(4):
-    time_in = int(input())
-    time.append(time_in)
+    time.append(int(input()))
     
 for j in range(4):
     time_total += time[j]
