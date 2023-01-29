@@ -13,7 +13,7 @@ elif B < mon:
     
 y = A - year + 1
 z = A - year
-        
+#각각 출력        
 print(x)
 print(y)
 print(z)
